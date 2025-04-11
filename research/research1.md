@@ -16,7 +16,7 @@ Link (Coming soon!)
 
 With the launch and application of next-generation ground- and space-based telescopes, astronomy has entered the era of big data, necessitating more efficient and robust data analysis methods. The high-quality observations provided by JWST offer a valuable opportunity to calibrate and enhance the performance of the upcoming surveys, e.g. the CSST and Euclid. In this work, we introduce a new approach (SHAPE, SOM-SED Hybrid Approach for efficient Parameter Estimation) to efficiently and accurately estimate key galaxy parameters, such as stellar mass and star formation rate (SFR), leveraging the largest and deepest JWST/NIRCam and MIRI surveys (PRIMER). As a test of methodology, we focus on galaxies at z ∼ 1.5 − 2.5. To mitigate discrepancies between input colors and the training set, we replace the default SOM weights with stacked SEDs from each cell, extending the applicability of our model to other photometric catalogs (e.g. COSMOS2020). By incorporating an SED library (SED Lib), we apply this JWST-calibrated model to the COSMOS2020 catalog. Despite the limited sample size and potential template-related uncertainties, SOM-derived estimates exhibit strong agreement with results from SED fitting using extended photometry. Under identical photometric constraints, our method outperforms traditional SED fitting techniques in SFR estimation. With its high computational efficiency, this JWST-calibrated estimator holds significant promise for next-generation large-area surveys.
 
-<img src="./Images/SHAPE1.png" alt="SHAPE1" style="zoom:50%;" />
+<img src="/Images/SHAPE1.png" alt="SHAPE1" style="zoom:50%;" />
 
 
 
