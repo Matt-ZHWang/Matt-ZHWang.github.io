@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 「II」 Simulate the *Universes*
+title: Simulate the *Universes*
 subtitle: with numerical simulations
 ---
 
