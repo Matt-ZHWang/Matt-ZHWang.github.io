@@ -1,10 +1,13 @@
-# 「II」 Simulate the *Universes* with numerical simulations
+---
+layout: page
+title: 「II」 Simulate the *Universes*
+subtitle: with numerical simulations
+---
 
 Another approach to understanding the universe is **Bayesian in spirit**—starting from fundamental theories to **reproduce, interpret, and predict** observations. Thus, **numerical simulations** and **semi-analytic models** also serve as powerful tools in this endeavor.
 
 
-
-## 「1」Multi-scale investigation of SFE at high-redshift galaxies: universal star formation revealed in thesan-zoom
+### 「1」Multi-scale investigation of SFE at high-redshift galaxies: universal star formation revealed in thesan-zoom
 
 Link (Coming soon!)
 
