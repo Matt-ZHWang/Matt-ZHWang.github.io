@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 「1」Reconstruct the Universe
+title: Reconstruct the Universe
 subtitle: from Deep-Field Surveys with Machine Learning
 ---
 
