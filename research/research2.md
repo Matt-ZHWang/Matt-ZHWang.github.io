@@ -2,7 +2,6 @@
 layout: page
 title: Simulate the Universes
 subtitle: with state-of-art numerical simulations
-full-width: true
 ---
 
 Another approach to understanding the universe is **Bayesian in spirit**—starting from fundamental theories to **reproduce, interpret, and predict** observations. Thus, **numerical simulations** and **semi-analytic models** also serve as powerful tools in this endeavor.
