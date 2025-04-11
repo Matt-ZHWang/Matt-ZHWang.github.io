@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Personal Website of ZH(Matthew) W.
+title: Personal Website of Zihao(Matthew) W.
 
 # Your name to show in the footer
 author: Zihao(Matthew) Wang
@@ -22,8 +22,8 @@ author: Zihao(Matthew) Wang
 navbar-links:
   About Me: "aboutme"
   Research:
-    - Reconstruct: "research/research1"
-    - Simulate: "research/research2"
+    - Pt I: "research/research1"
+    - Pt II: "research/research2"
   Author's home: "https://deanattali.com"
 
 ################
