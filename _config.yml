@@ -21,9 +21,9 @@ author: Zihao(Matthew) Wang
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Research:
+    - Reconstruct: "research/research1"
+    - Simulate: "research/research2"
   Author's home: "https://deanattali.com"
 
 ################
