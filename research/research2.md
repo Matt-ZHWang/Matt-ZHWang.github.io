@@ -17,4 +17,4 @@ In this work, we extend the analysis of [Shen2025](https://arxiv.org/abs/2503.01
 
 We find that **star formation in these systems is predominantly hosted by filamentary giant molecular clouds (GMCs)** embedded in dense interstellar media (ISM) and subjected to strong external pressure. At the GMC scale, **star formation appears universal across redshifts and halo masses**. GMCs maintain a nearly constant **gas surface density**, while their **dark matter surface density increases with redshift**, leading to the emergence of **DM-dominated GMCs at $z > 10$**, which could exhibit elevated SFEs. Moreover, we find that the **GMC mass fraction** is the dominant factor shaping the global SFR–surface density relation.
 
-<img src="/Users/makkonem/Desktop/TZ1.png" alt="TZ1" style="zoom:50%;" />
+<img src="/Images/TZ1.png" alt="TZ1" style="zoom:50%;" />
