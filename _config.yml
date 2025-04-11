@@ -20,11 +20,14 @@ author: Zihao(Matthew) Wang
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Research:
+  about me: "aboutme"
+  research:
     - Pt I: "research/research1"
     - Pt II: "research/research2"
-  Author's home: "https://deanattali.com"
+  blog:
+    - CN:
+    - EN:
+  cv: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -105,7 +108,7 @@ rss-description: This website is a virtual proof that I'm awesome
 #url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
-title-on-all-pages: true
+title-on-all-pages: false
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
